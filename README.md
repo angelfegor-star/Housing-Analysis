@@ -9,7 +9,7 @@ Where does a buyer's money go furtherest and what drives price premium
 3. Each bedroom up to 5 beds adds approximately $192k-$333k, after which returns drop and become inconsistent(approximately $269k-$299k), showing diminishing returns
 
 ## Pipeline
-Raw CSV - python cleaning + feature engineering - MySQL analysis - Power BI - Tableau
+Raw CSV - python cleaning + feature engineering - MySQL analysis - Tableau
 
 ## Files
 - /notebooks/housing_analysis.ipynb         - cleaning + EDA
